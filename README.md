@@ -29,6 +29,7 @@ MeshLab is an open-source software system designed for processing and editing 3D
 
 ## Usage Examples 📊
 
+![image](https://github.com/user-attachments/assets/d57a5e75-45d5-44c1-a036-06dec55387de)
 
 
 
